@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @douaabnh
-- 👀 I’m interested in Data science 
+- 👀 I’m interested in Data science and AI
 - 🌱 I’m currently learning PHP,Python,web dev
 
 <!---
